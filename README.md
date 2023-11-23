@@ -9,7 +9,7 @@
             📖 Software Architecture • Distributed Systems<br>
             🎮 Music • Games • Code
         </div>
-        <img src="https://media.tenor.com/2AXMiIecjfgAAAAC/get-set-cat.gif" height="100" />
+        <img src="https://media.tenor.com/2AXMiIecjfgAAAAC/get-set-cat.gif" height="150" />
     </div>
     <br><br><br>
 </div>
