@@ -1,6 +1,6 @@
 <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=50&duration=4000&pause=300&color=898989&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Wassup" width="100%" />
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=50&duration=4000&pause=300&color=898989&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Wassup" width="100%" />
         <img src="https://media.tenor.com/zWexhVPqyKMAAAAC/blue.gif" width="40%" align="right" />
     </div>
     <br><br>
