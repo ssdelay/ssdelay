@@ -6,7 +6,7 @@
     <br><br>
     <div style="text-align: left;">
     💼 • Back-end dev • Platform Engineer<br>
-    💻 C# (WPF) • Python • Web Development<br>
+    💻 C# • Python • Web Development<br>
     📖 Software Architecture • Distributed Systems<br>
     🎮 Music • Games • Code
     </div>
