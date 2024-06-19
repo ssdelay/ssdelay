@@ -12,5 +12,5 @@
     </div>
 </div>
 
-[![](https://img.shields.io/badge/vk-4A76A8)](https://vk.com/asyrock)
+[![](https://img.shields.io/badge/vk-4A76A8)](https://x.com/oqwoixi)
 [![](https://img.shields.io/badge/spotify-1ED760)](https://open.spotify.com/user/fhkcmkc2vyd7k06g41nbtzeci?si=3bf9ebbfdb9043ea)
