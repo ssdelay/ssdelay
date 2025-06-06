@@ -12,5 +12,6 @@
     </div>
 </div>
 
-[![](https://img.shields.io/badge/Spotify-32302f.svg?&style=flat-square&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/fhkcmkc2vyd7k06g41nbtzeci?si=3bf9ebbfdb9043ea) [![](https://img.shields.io/badge/X-1DA1F2)](https://x.com/oqwoixi) 
-<img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699"> 
+[![](https://img.shields.io/badge/X-1DA1F2)](https://x.com/oqwoixi) [![](https://img.shields.io/badge/Spotify-32302f.svg?&style=flat-square&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/fhkcmkc2vyd7k06g41nbtzeci?si=3bf9ebbfdb9043ea) <img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699"> 
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,dotnet,cs,mysql,html,css,js,vscode,ts,php,nodejs,tailwind,vue,nuxt&perline=7)](https://skillicons.dev)
