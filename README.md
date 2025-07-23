@@ -2,13 +2,13 @@
 
 Graduated with a technical degree, where I honed my ability to transform abstract concepts into functional systems. My toolkit spans across layers—from crafting responsive interfaces to engineering robust backends and orchestrating containerized environments.
 
-Backend Alchemy
+Backend
 - Sculpted applications with C#, from WinForms to modern WPF (including WPF UI), and built scalable APIs with ASP.NET Core
 - Designed and containerized microservices, leveraging Docker
 - Explored Python’s ecosystem with FastAPI and Django
 - Architected RESTful endpoints, managed data flows, and optimized queries across PostgreSQL and MySQL
 
-Frontend Artistry
+Frontend
 - Shaped dynamic UIs with Vue and Nuxt, blending TypeScript with Tailwind
 - Navigated the full stack, occasionally diving into PHP for legacy systems
 
